@@ -18,13 +18,12 @@ Chromia（以下简称"本应用"）是一款口红色彩智能工具，帮助�
 
 ### 我们收集的数据
 
-- 设备标识符（IDFA、IDFV 等）
-- 使用行为分析数据
-
 #### 完全不收集的数据
 
 - 个人身份信息（姓名、邮箱、手机号等）
 - 位置信息
+- 设备标识符（IDFA、IDFV 等）
+- 使用行为分析数据
 - 崩溃报告（无第三方分析 SDK）
 - 浏览记录
 
@@ -99,13 +98,12 @@ Chromia is a lipstick color intelligence tool that helps users explore, search, 
 
 ### Data We Collect
 
-- Device identifiers (IDFA, IDFV, etc.)
-- Usage analytics
-
 #### Data We Never Collect
 
 - Personal identifiers (name, email, phone number, etc.)
 - Location data
+- Device identifiers (IDFA, IDFV, etc.)
+- Usage analytics
 - Crash reports (no third-party analytics SDK)
 - Browsing history
 
